@@ -1,1 +1,1 @@
-UI -> https://ashish-prakash.github.io/WhiteBoard/
+Site Link: https://imkavya-singhal.github.io/WhiteBoard/
